@@ -25,9 +25,12 @@ As a result, **all demographic analysis is performed at the visit level**, not t
 - Python (pandas, data cleaning & exploration)
 - Tableau (visualization & dashboard)
 
-  <img width="1894" height="944" alt="PatientAnalysisDash" src="https://github.com/user-attachments/assets/390e4523-8e38-42c2-b4af-cb2ad779d128" />
-  <img width="640" height="480" alt="Age_Distributions" src="https://github.com/user-attachments/assets/d04e6f6a-03d8-4379-abb3-349f36e3f743" />
+<img width="1894" height="944" alt="PatientAnalysisDash" src="https://github.com/user-attachments/assets/390e4523-8e38-42c2-b4af-cb2ad779d128" />
+
+<img width="640" height="480" alt="Age_Distributions" src="https://github.com/user-attachments/assets/d04e6f6a-03d8-4379-abb3-349f36e3f743" />
+
 <img width="2000" height="800" alt="high_utilizers" src="https://github.com/user-attachments/assets/9ccb9622-7350-4fdb-9de2-1dbe55666ef7" />
+
 <img width="2000" height="800" alt="icd_codes" src="https://github.com/user-attachments/assets/7871efc5-d8e3-45df-acb3-73c40a870e35" />
 
  
