@@ -57,5 +57,5 @@ As a result, **all demographic analysis is performed at the visit level**, not t
 2. Open the Tableau workbook (`.twbx`) to explore the interactive dashboard.
 
 ## Author
-[Your Name]  
+[Morris Mwangi Gitau]  
 Data Analyst
